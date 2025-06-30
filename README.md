@@ -10,7 +10,7 @@ Build a decision tree classifier to predict whether a customer will purchase a p
 Use a dataset such as the [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) from the UCI Machine Learning Repository to:
 - Analyze customer data
 - Train a Decision Tree model
-- Predict whether a customer will subscribe to a term deposit
+- Predict whether a customer will subscribe to a term deposit 
 
 ---
 
